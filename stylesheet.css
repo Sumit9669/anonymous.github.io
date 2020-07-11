@@ -1,0 +1,19 @@
+body{
+    background-color:#ffe9c2;
+}
+.container{
+    max-width: 600px;
+}
+h1{
+    color:cornflowerblue;
+}
+.username{
+    font-weight: bolder;
+}
+.message{
+    color: #554c3c;
+}
+.time{
+    font-size: 70%;
+    color: dimgray;
+}
